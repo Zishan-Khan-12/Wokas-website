@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="30">
+  <g data-name="Group 911" fill="none" stroke="#fff" stroke-width="2">
+    <g data-name="pattern smart 3">
+      <g data-name="Ellipse 27">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="5.5"/>
+      </g>
+      <g data-name="Ellipse 28" transform="translate(26)">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="5.5"/>
+      </g>
+      <g data-name="Ellipse 29" transform="translate(52)">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="5.5"/>
+      </g>
+    </g>
+    <g data-name="pattern smart 3">
+      <g data-name="Ellipse 27" transform="translate(15 17)">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="5.5"/>
+      </g>
+      <g data-name="Ellipse 28" transform="translate(41 17)">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="5.5"/>
+      </g>
+      <g data-name="Ellipse 29" transform="translate(67 17)">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="5.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
